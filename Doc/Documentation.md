@@ -7,6 +7,7 @@ _**language list**_
 ## Supported Languages
 
 _alphabetically_
+
   C
   C++
   C#
@@ -37,7 +38,7 @@ _alphabetically_
 
   Python, Perl, Ruby, Lua, Javascript, PHP, Matlab, Lisp OCaml even Scala (to an
   extent) share a similar style in that the "Hello Git" implentation required
-  only a few commands to call like: print("Hello Git") or something similar.
+  only a few commands to call like:  print("Hello Git") or something similar.
 
 ## Verbose Syntax
 
@@ -47,18 +48,29 @@ _alphabetically_
 ## Comment Style
 
   Python, Perl, Ruby and R were similar in that category
+  
   ` # comment ...`
+  
   Haskell, Lua, SQL were similar
+  
   `-- comment ...`
+  
   C, C#, C++, D, Go, Java, Javascript, Objective-C, Rust, Scala and Vala had the
   common
-  `// comments ...` 
-  `/*...multiline comments */ `S
+  
+  `// comments ...`   
+  `/*...multiline comments */ `
+  
   Special Mentions go to these languages that had the strangest comment style
-  Lisp       	`; comments ... `
-  Matlab     	`% commments ...`
-  OCaml      	`(* comments ... *)`
-  Pascal     	`{ comments ... }`
-  HTML       	`!-- comments ...`
-  PHP was somewhat torn in the middle as it went with both
-  `// comments ...`   and ` # comments ...`
+  
+  Lisp        	`; comments ... `
+  
+  Matlab     	  `% commments ...`
+  
+  OCaml      	  `(* comments ... *)`
+  
+  Pascal     	  `{ comments ... }`
+  
+  HTML       	  `!-- comments ...`
+  
+  PHP was somewhat torn in the middle as it went with both      `// comments ...`   and ` # comments ...`
