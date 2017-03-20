@@ -1,9 +1,11 @@
-#Documentation
+# Documentation
+
 This is the documentation for the Prog_langSyntax.
 _**Please make sure any lannguage added is reflected in the supported**_ 
 _**language list**_
 
-##Supported Languages
+## Supported Languages
+
 _alphabetically_
   C
   C++
@@ -31,16 +33,19 @@ _alphabetically_
   Vala
 
 
-##Ease Of Implementation of the "HelloGit"
+## Ease Of Implementation of the "HelloGit"
+
   Python, Perl, Ruby, Lua, Javascript, PHP, Matlab, Lisp OCaml even Scala (to an
   extent) share a similar style in that the "Hello Git" implentation required
   only a few commands to call like: print("Hello Git") or something similar.
 
-##Verbose Syntax
+## Verbose Syntax
+
   Java, C++, C, C#, Objective-C, Haskell, Go, D, Vala, Pascal & Rust (to 
   an extent) required much more code to implement "HelloGit"
 
-##Comment Style
+## Comment Style
+
   Python, Perl, Ruby and R were similar in that category
   ` # comment ...`
   Haskell, Lua, SQL were similar
