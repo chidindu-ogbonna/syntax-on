@@ -27,5 +27,5 @@ _**language list**_
   Prog_langSyntax was orginally written by Chidindu Ogbonna.
 
 ##Licence 
-  Prog_langSyntax is Copyright 2017. It is made free under the [Unilence](https://choosealicense.com/licenses/unlicense/) 
+  Prog_langSyntax is Copyright &copy;Chidindu Ogbonna 2017. It is made free under the [Unilence](https://choosealicense.com/licenses/unlicense/) 
   
