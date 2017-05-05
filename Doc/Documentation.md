@@ -1,6 +1,6 @@
 # Documentation
 
-This is the documentation for the Prog_langSyntax.
+This is the documentation for the syntax-on.
 _**Please make sure any lannguage added is reflected in the supported**_ 
 _**language list**_
 
