@@ -6,7 +6,8 @@ has the common multiline comment style
 */
 
 #include <iostream>
+
 int main()
 {
-    std::cout<<"Hello Git\n"; // outputs Hello Git
+    std::cout <<"Hello Git\n" << endl; // outputs Hello Git
 }
