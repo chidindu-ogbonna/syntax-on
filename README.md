@@ -27,5 +27,5 @@ _**language list**_
   
 ## Licence 
 
-  **syntax-on** is Copyright&copy; of Chidindu Ogbonna 2017. It is made free under the [Unilence](https://choosealicense.com/licenses/unlicense/) 
+  [Unilence](https://choosealicense.com/licenses/unlicense/) 
   
