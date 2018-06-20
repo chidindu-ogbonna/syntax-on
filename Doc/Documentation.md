@@ -1,39 +1,5 @@
 # Documentation
 
-This is the documentation for the syntax-on.
-_**Please make sure any lannguage added is reflected in the supported**_ 
-_**language list**_
-
-## Supported Languages
-
-_alphabetically_
-
-  C
-  C++
-  C#
-  CSS
-  D
-  Go
-  HTML
-  Haskell
-  Java
-  JavaScript
-  Lisp
-  Lua
-  Matlab
-  Objective-C
-  OCaml
-  Pascal
-  Perl
-  PHP
-  Python
-  R
-  Ruby
-  Rust
-  Scala
-  Vala
-
-
 ## Ease Of Implementation of the "HelloGit"
 
   Python, Perl, Ruby, Lua, Javascript, PHP, Matlab, Lisp OCaml even Scala (to an
