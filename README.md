@@ -21,11 +21,3 @@ So Please contibute !!!!
  _**Please make sure any lannguage added is reflected in the supported**_ 
 _**language list**_
 
-## Supported Languages
-
-  For supported languages please see [Documentation](Doc/Documentation.md)
-  
-## Licence 
-
-  [Unilence](https://choosealicense.com/licenses/unlicense/) 
-  
